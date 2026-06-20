@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 **/.DS_Store
+
+# TP3 - datos y artefactos generados localmente
+archivo.zip
+datos_zip/
+imagenes_nuevas/
+*.pth
